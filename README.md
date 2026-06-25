@@ -1,25 +1,20 @@
-<h1 align="center">¡Hola! Soy Sandra 👩‍💻</h1>
-<p align="center">
-  <img src="https://github.com/cydiam/cydiam/blob/main/matrix.gif" width="100%">
-</p>
+<h1 align="center">¡Hola, soy Sandra! 👩‍💻</h1>
 
 <p align="center">
-  <h3>Ingeniera en Sistemas Computacionales</h3>
-</p>
-
-<!-- Sección del Pingüino (Tux) o Ballena de Docker -->
-<p align="center">
-  <!-- Opción 1: Pingüino de Linux (GIF animado) -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ4ZzR6NHJ4ZzR6NHJ4ZzR6NHJ4ZzR6NHJ4ZzR6NHJ4ZzR6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/LmNwrBhejkK9EFP504/giphy.gif" width="200" />
-  
-  <!-- O si prefieres la ballena de Docker, puedes usar esta línea en lugar de la anterior:
-  <img src="https://raw.githubusercontent.com/docker/brand-assets/master/logo/docker-logo-blue.png" width="200" /> 
-  -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&lines=Ingeniera+en+Sistemas+Computacionales;Apasionada+por+Linux+y+Ciberseguridad;Desarrolladora+Full-Stack" />
 </p>
 
 ---
 
 ### 📈 Mis Estadísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SandraAlcantara23&show_icons=true&theme=radical&hide_border=true)
+<!-- Aquí mantienes los widgets que ya tienes en image_f93303.png -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SandraAlcantara23&show_icons=true&theme=radical)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SandraAlcantara23&theme=tokyonight)
+
+---
+
+### 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,arch,docker,python,react,express,mongodb" />
+</p>
