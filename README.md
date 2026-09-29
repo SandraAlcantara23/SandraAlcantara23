@@ -1,6 +1,6 @@
 <!-- ============ HEADER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,50:1F2A44,100:2B3A67&height=200&section=header&text=Sandra%20Alc%C3%A1ntara%20Cruz&fontSize=46&fontColor=E6EDF3&fontAlign=50&fontAlignY=40&desc=Software%20Engineer%20%C2%B7%20Backend%20%26%20Distributed%20Systems&descSize=18&descAlign=50&descAlignY=65&animation=fadeIn" alt="Sandra Alcántara Cruz" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2B3A67&height=190&section=header&text=Sandra%20Alc%C3%A1ntara%20Cruz&fontSize=44&fontColor=E6EDF3&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20-%20Backend%20and%20Distributed%20Systems&descAlignY=60&descSize=17" alt="Sandra Alcántara Cruz" />
 </p>
 
 <p align="center">
