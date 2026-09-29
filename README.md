@@ -9,21 +9,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SandraAlcantara23&label=Visitas&color=6E40C9&style=flat-square" alt="Visitas" />
-  <img src="https://img.shields.io/github/followers/SandraAlcantara23?label=Seguidores&style=flat-square&color=3776AB" alt="Seguidores" />
-</p>
-
----
-
-## 👩‍💻 Sobre mí
-
-- 🎓 Estudiante de **Ingeniería en Sistemas Computacionales** en el **TESJI**
-- 💼 Actualmente en **residencias profesionales**
-- ⚙️ Me enfoco en **backend, microservicios y sistemas distribuidos**
-- 📡 Me apasiona el **IoT y los sistemas embebidos** (ESP32)
-- 🌱 Siempre aprendiendo algo nuevo de **cloud y DevOps**
-
 ---
 
 ## 🛠️ Tech Stack
