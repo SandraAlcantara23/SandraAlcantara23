@@ -1,11 +1,11 @@
 <!-- ============ HEADER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3776AB,100:6E40C9&height=180&section=header&text=Sandra%20Alc%C3%A1ntara%20Cruz&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20IoT%20%7C%20Microservices&descAlignY=58&descSize=16" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,50:1F2A44,100:2B3A67&height=200&section=header&text=Sandra%20Alc%C3%A1ntara%20Cruz&fontSize=46&fontColor=E6EDF3&fontAlign=50&fontAlignY=40&desc=Software%20Engineer%20%C2%B7%20Backend%20%26%20Distributed%20Systems&descSize=18&descAlign=50&descAlignY=65&animation=fadeIn" alt="Sandra Alcántara Cruz" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=650&lines=Ingenier%C3%ADa+en+Sistemas+Computacionales+%F0%9F%8E%93;Backend+Developer+%26+Microservices+%E2%9A%99%EF%B8%8F;IoT+con+ESP32+%F0%9F%93%A1;Full-Stack+y+Automatizaci%C3%B3n+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&duration=3500&pause=1200&color=8B949E&center=true&vCenter=true&width=600&lines=APIs+REST+%C2%B7+Microservicios+%C2%B7+Docker;IoT+%26+Sistemas+Embebidos+con+ESP32;Construyendo+soluciones+escalables+y+seguras" alt="Especialidades" />
   </a>
 </p>
 
