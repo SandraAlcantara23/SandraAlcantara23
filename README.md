@@ -27,6 +27,10 @@ Estudiante de Ingeniería en Sistemas Computacionales en el Tecnológico Naciona
 
 ### 📊 GitHub Stats:
 
+<br>
+
 ![Estadísticas de Sandra](https://github-readme-stats.vercel.app/api?username=SandraAlcantara23&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+<br>
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=SandraAlcantara23&layout=compact&theme=radical&hide_border=true)
