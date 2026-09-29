@@ -1,6 +1,10 @@
-### ¡Hola! Soy Sandra Alcántara Cruz 👩‍💻
+<h1 align="center">¡Hola! Soy Sandra Alcántara Cruz 👩‍💻</h1>
 
-Estudiante de Ingeniería en Sistemas Computacionales en el Tecnológico Nacional de México (ITESIJ) e impulsora de soluciones tecnológicas y servicios digitales. Me apasiona el desarrollo backend, la arquitectura de microservicios y la automatización.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Ingenier%C3%ADa+en+Sistemas+Computacionales;Backend+Developer+%26+Microservices;Automatizaci%C3%B3n+y+Servicios+Digitales" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
